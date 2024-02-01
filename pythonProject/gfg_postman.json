@@ -1,0 +1,10 @@
+{“id”: “516d259f-77b8-4aa9-9f13-59feb59d0cb4”, “name”: “gfg”, “timestamp”: 1621215826922, “requests”: [
+        {“id”: “95f002e8-9923-4123-b7a8-dd39a38c6e20”, “data”: [], “description”: “”, “headers”: “”, “method”: “GET”, “name”: “gfg”, “time”: 1621215826922, “url”: “{{base_url}}/gfg/{{page}}”, “collectionId”: “516d259f-77b8-4aa9-9f13-59feb59d0cb4”, “dataMode”: “params”
+        },
+        {“id”: “0ca2ca2f-33b6-4a37-936e-bba48a5592fa”, “data”: [], “description”: “”, “headers”: “”, “method”: “GET”, “name”: “index”, “time”: 1621215826922, “url”: “{{base_url}}/”, “collectionId”: “516d259f-77b8-4aa9-9f13-59feb59d0cb4”, “dataMode”: “params”
+        },
+        {“id”: “234d7de4-d1c8-4d14-b86b-d2c71e338b54”, “data”: [], “description”: “”, “headers”: “”, “method”: “POST”, “name”: “data”, “time”: 1621215826922, “url”: “{{base_url}}/add”, “collectionId”: “516d259f-77b8-4aa9-9f13-59feb59d0cb4”, “dataMode”: “params”
+        }
+    ], “order”: [“95f002e8-9923-4123-b7a8-dd39a38c6e20”, “0ca2ca2f-33b6-4a37-936e-bba48a5592fa”, “234d7de4-d1c8-4d14-b86b-d2c71e338b54”
+    ], “folders”: []
+}
